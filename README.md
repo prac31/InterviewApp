@@ -1,4 +1,4 @@
-#Interview Scheduling App
+# Interview Scheduling App
 
 A simple app where admins can create interviews by selecting participants, interview start time and end time.
 
